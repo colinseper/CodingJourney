@@ -3,7 +3,7 @@
   <br><br> ● Intro to Programming with MATLAB(C - College): Review of general principles and introduction to MATLAB language. Created Snake game for final project, viewable in repositories(Intro_to_MATLAB_Final_Project).
   <br><br> ● Statistics with R(C - College): Basic introduction to R and Statistics.
   <br><br> ● <a href ="https://www.educative.io/courses/learn-java-from-scratch" target ="_blank" rel="noopener noreferrer">Learn Java from Scratch</a>(C): Fairly good intro to Java course, although at some points found it hard to follow (Used Youtube Videos from BroCode to help my understanding). Make sure to follow along coding either with VScode or another resource. At later points the given code solutions were a bit cruddy, with some being solutions soley to solve the test cases rather than the problems asked (always try and find a better solution!). However, overall good intro course and great free resource.
-<br><br> ● Personal Project - Quizzer: a java application (through the command line) to help me review my programming notes specifically, but also other school notes.
+<br><br> ● Personal Project - Quizzer: a java application (through the command line) to help me review my programming notes specifically, but also other school notes (Quizzer Repository). 
 <br><br> ● Introduction to Object Oriented Programming with Python(IP - College):
 <br><br> ● <a href= "https://www.coursera.org/learn/algorithms-part1"> Algorithms I</a>(IP):
   <br><br> <a href ="https://www.theodinproject.com/paths" target="_blank" rel="noopener noreferrer">The Odin Project</a>
