@@ -6,6 +6,6 @@
 <br><br> ● Introduction to Object Oriented Programming with Python(IP - College):
 <br><br> ● <a href= "https://www.coursera.org/learn/algorithms-part1"> Algorithms I</a>(IP):
   <br><br> <a href ="https://www.theodinproject.com/paths" target="_blank" rel="noopener noreferrer">The Odin Project</a>
-  <br> ● Fundamentals(IP):
+  <br> ● Fundamentals:
   <br> ● Full-Stack JavaScript:
 </div>
