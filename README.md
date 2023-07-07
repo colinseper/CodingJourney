@@ -15,7 +15,7 @@ Don't try and compare yourself to my journey and the way I tried to progress. Pi
 
 ● Personal Project - Quizzer: a java application (through the command line) to help me review my programming notes specifically, but also other school notes (Quizzer Repository). 
 
-● Introduction to Object Oriented Programming with Python(C): Basic introduction to Python.
+● Introduction to Object Oriented Programming with Python(C - College): Basic introduction to Python.
 
 ● <a href= "https://www.coursera.org/learn/algorithms-part1" target ="blank"> Algorithms I</a> and <a href="https://www.coursera.org/learn/algorithms-part2"> Algorithms II </a>(IP):
 
