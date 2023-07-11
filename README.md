@@ -17,7 +17,7 @@ Don't try and compare yourself to my journey and the way I tried to progress. Pi
 
 ● Introduction to Object Oriented Programming with Python(C - College): Basic introduction to Python.
 
-● <a href= "https://www.coursera.org/learn/algorithms-part1" target ="blank"> Algorithms I</a> and <a href="https://www.coursera.org/learn/algorithms-part2"> Algorithms II </a>(IP):
+● <a href= "https://www.coursera.org/learn/algorithms-part1" target ="blank"> Algorithms I</a> and <a href="https://www.coursera.org/learn/algorithms-part2"> Algorithms II </a>(IP) - (I only completed Week 1, 2, and 4 from Algorithms II. I will explain why later): 
 
 <a href ="https://www.theodinproject.com/paths" target="blank">The Odin Project</a>
 <br>● Fundamentals:
