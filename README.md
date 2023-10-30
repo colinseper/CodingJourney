@@ -21,4 +21,4 @@ Don't try and compare yourself to my journey and the way I tried to progress. Pi
 
 ● ? - (Full-Stack Project with React Frontend, Java Backend, and MongoDB for the Database) - waiting for computer
 
-● <a href="https://cs50.harvard.edu/ai/2023/" target="blank"> Harvard CS50's Introduction to Artificial Intelligence with Python</a>(IP): Using as a pre-req to Andrew Ng's AI and Machine Learning course specialization on Coursera (free if you audit each course individually). Also learning/reviewing some math through Khan Academy (Multivariable Calculus, Differential Equations, Linear Algebra, and Probability and Statistics). 
+● <a href="https://cs50.harvard.edu/ai/2023/" target="blank"> Harvard CS50's Introduction to Artificial Intelligence with Python</a>(IP): Using as a pre-req to Andrew Ng's AI and Machine Learning course specialization on Coursera (free if you audit each course individually). Also learning/reviewing some math through Khan Academy (Multivariable Calculus, Differential Equations and Linear Algebra). 
