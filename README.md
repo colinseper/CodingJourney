@@ -27,6 +27,6 @@ Don't try and compare yourself to my journey and the way I tried to progress. Pi
 
 ● <a href="https://course.fast.ai/" target="blank"> Practical Deep Learning </a>(IP): 
 
-● <a href="https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/home" target="blank"> CS50's Introduction to Game Design </a>(IP): 
+● Personal Project - Game with Unity (IP): 
 
 ● Personal Project - Algorithm Review Site -> likely via JS w/ Mongo (IP):
