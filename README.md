@@ -25,6 +25,8 @@ Don't try and compare yourself to my journey and the way I tried to progress. Pi
  
 ● Object Oriented Software Design (C - College): Introduction to some aspects of software design principles through Java.
 
+● SWE Internship @Enterprise Mobility (IP): 
+
 ● <a href="https://course.fast.ai/" target="blank"> Practical Deep Learning </a>(IP): 
 
 ● Personal Project - Game with Unity (IP): 
