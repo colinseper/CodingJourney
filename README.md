@@ -29,6 +29,4 @@ Don't try and compare yourself to my journey and the way I tried to progress. Pi
 
 ● <a href="https://course.fast.ai/" target="blank"> Practical Deep Learning </a>(IP): 
 
-● Personal Project - Game with Unity (IP): 
-
-● Personal Project - Algorithm Review Site -> likely via JS w/ Mongo (IP):
+● <a href="https://www.theodinproject.com/dashboard" target="blank"> The Odin Project </a>(IP): originally wanted to go straight to a project but figured I'd fully flush out my HTML & CSS skills
