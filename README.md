@@ -25,8 +25,4 @@ Don't try and compare yourself to my journey and the way I tried to progress. Pi
  
 ● Object Oriented Software Design (C - College): Introduction to some aspects of software design principles through Java.
 
-● SWE Internship @Enterprise Mobility (IP): 
-
-● <a href="https://course.fast.ai/" target="blank"> Practical Deep Learning </a>(IP): 
-
-● <a href="https://www.theodinproject.com/dashboard" target="blank"> The Odin Project </a>(IP): originally wanted to go straight to a project but figured I'd fully flush out my HTML & CSS skills
+● SWE Internship @Enterprise Mobility (C): 
